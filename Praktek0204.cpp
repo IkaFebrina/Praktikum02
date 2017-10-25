@@ -11,4 +11,6 @@ int main(){
 	cout<<"Jumlah box parket		: "<<JP<<endl;
 	double BPR=JP*500;
 	cout<<"Biaya Parket	(Rp)		: "<<BPR<<endl;
+	int BPS=LR*20;
+	cout<<"Biaya pasang (Rp)		: "<<BPS<<endl;
 }
