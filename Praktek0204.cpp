@@ -13,4 +13,8 @@ int main(){
 	cout<<"Biaya Parket	(Rp)		: "<<BPR<<endl;
 	int BPS=LR*20;
 	cout<<"Biaya pasang (Rp)		: "<<BPS<<endl;
+	double TB=BPR+BPS;
+	cout<<"Total biaya  (Rp)		: "<<TB<<endl;
+	cout<<"--------------------------------------------";
+	getch();
 }
